@@ -1,12 +1,16 @@
 ### Hi, I'm Sebastian 👋👨‍💻
 
 Currently studing CS, 1 year left to finish university 📚
+Developing ![Dexco](dexco.cl) 
 
 I really enjoy making software that make people more productive 🤗
+
+Fun Fact: I'm learning Colemak, and i can type at 80wpm in Querty
 ```python
 Sebastian = {
   code: [Javascript, HTML, CSS, Python],
   tools: [React, Node, Django, DRF,React Native, MaterialUI],
+  databases: [SQL Server, MySQL, Postgres, MongoDB]
 }
 ```
 Find me on ![Linkedin](https://www.linkedin.com/in/sebastian-nu%C3%B1ez-869553161) 💼
