@@ -8,8 +8,8 @@ I really enjoy making software that make people more productive 🤗
 Fun Fact: I'm learning Colemak, and i can type at 80wpm in Querty
 ```python
 Sebastian = {
-  code: [Javascript, HTML, CSS, Python],
-  tools: [React, Node, Django, DRF,React Native, MaterialUI],
+  code: [Javascript, HTML, CSS, Python, Java, C#],
+  tools: [React, Node, Django, DRF, React Native, MaterialUI],
   databases: [SQL Server, MySQL, Postgres, MongoDB]
 }
 ```
