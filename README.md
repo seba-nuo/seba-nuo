@@ -1,17 +1,19 @@
 ### Hi, I'm Sebastian 👋👨‍💻
 
-Currently studing CS, 1 year left to finish university 📚
-Developing ![Dexco](dexco.cl) 
+Currently studing CS, half year left to finish university 📚
+Developing ![Dexco](dexco.cl) as my personal portafolio
 
-I really enjoy making software that make people more productive 🤗
+Looking for remote jobs oportunities
+I have learned and used the following tecnologies:
 
 ```python
 Sebastian = {
   code: [Javascript, HTML, CSS, Python, Java, C#],
-  tools: [React, Node, Django, DRF, React Native, MaterialUI],
-  databases: [SQL Server, MySQL, Postgres, MongoDB]
+  tools: [React, Express, Django, DRF, React_Native, MaterialUI, Strapi, Docker],
+  databases: [SQL_Server, MySQL, Postgres, MongoDB]
 }
 ```
+
 Find me on ![Linkedin](https://www.linkedin.com/in/sebastian-nu%C3%B1ez-869553161) 💼
 
 <!--
