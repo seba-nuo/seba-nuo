@@ -13,7 +13,7 @@ Sebastian = {
 }
 ```
 
-Find me on ![Linkedin](https://www.linkedin.com/in/sebastian-nu%C3%B1ez-869553161) 💼
+Find me on [Linkedin](https://www.linkedin.com/in/sebastian-nu%C3%B1ez-869553161) 💼
 
 <!--
 **Wes137/Wes137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
