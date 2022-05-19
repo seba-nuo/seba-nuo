@@ -1,7 +1,6 @@
 ### Hi, I'm Sebastian 👋👨‍💻
 
 Currently studing CS, half year left to finish university 📚
-Developing ![Dexco](dexco.cl) as my personal portafolio
 
 Looking for remote jobs oportunities
 I have learned and used the following tecnologies:
