@@ -1,15 +1,15 @@
 ### Hi, I'm Sebastian 👋👨‍💻
 
-Currently studing CS, half year left to finish university 📚
+I'm Computer Engineer from Chile 📚
 
-Looking for remote jobs oportunities
+Looking for remote web dev oportunities on React
 I have learned and used the following tecnologies:
 
 ```python
 Sebastian = {
-  code: [Javascript, HTML, CSS, Python, Java, C#],
-  tools: [React, Express, Django, DRF, React_Native, MaterialUI, Strapi, Docker],
-  databases: [SQL_Server, MySQL, Postgres, MongoDB]
+  code: [JavaScript, HTML, CSS, Python, Java, C#],
+  tools: [React, MaterialUI, Tailwindcss, TypeScript],
+  databases: [SQL_Server, MySQL, Postgres, MongoDB, Firebase]
 }
 ```
 
