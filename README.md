@@ -2,9 +2,6 @@
 
 I'm Computer Engineer from Chile 📚
 
-Looking for remote web dev oportunities on React
-I have learned and used the following tecnologies:
-
 ```python
 Sebastian = {
   code: [JavaScript, HTML, CSS, Python, Java, C#],
